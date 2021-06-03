@@ -1,6 +1,8 @@
 # matplotlib-seaborn
 Some graph examples of mathplotlib and seaborn
 
+Cool resource : https://datavizcatalogue.com/
+
 # Matplotlib - Bar Chart with Error
 ```
 from matplotlib import pyplot as plt
